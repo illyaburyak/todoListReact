@@ -1,0 +1,13 @@
+.todolist-span{
+    color: green;
+}
+
+.spanDif{
+    text-decoration: line-through;
+    color: red;
+}
+
+.importDif{
+    color:red;
+    background-color: black;
+}
